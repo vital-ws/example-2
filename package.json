@@ -3,7 +3,7 @@
     "dependencies": {
         "express": "4.16.0",
         "lodash": "4.14.0",
-        "mkdirp": "0.3.3",
+        "mkdirp": "3.0.1",
         "@mend-eicar/hello-world" : "1.0.0",
         "get-lat-long": "0.0.2"
     }
